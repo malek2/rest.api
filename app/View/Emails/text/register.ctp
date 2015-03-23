@@ -1,0 +1,1 @@
+Ici est votre nom de domaine: <?php echo $domain; ?>
